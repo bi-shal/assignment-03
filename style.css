@@ -17,3 +17,15 @@ body, .bgcolor{
     font-weight: 700;
 
 }
+.company-ul{
+    text-align: center;
+    list-style: none;
+}
+.company-li{
+    
+    margin: 25px;
+
+}
+.company-li img{
+    width: 100px;
+}

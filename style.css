@@ -7,3 +7,13 @@ body, .bgcolor{
 .explor{
     background: #F4FAFD;
 }
+.list{
+    list-style: none;
+}
+.list-stl{
+    color:gold ;
+}
+.quotee{
+    font-weight: 700;
+
+}

@@ -29,3 +29,12 @@ body, .bgcolor{
 .company-li img{
     width: 100px;
 }
+.ulli{
+    list-style: none;
+}
+.list-itemm{
+    margin: 15px;
+}
+.edit{
+    font-size: 50px;
+}

@@ -1,11 +1,22 @@
 body, .bgcolor{
     background: #ebe8e8;
 }
+/* header-sec-start */
+.bolder{
+    font-size: 50px;
+}
 .carou{
     margin-top: 89px;
 }
+.imgg {
+    opacity: .75;
+    }
 .explor{
     background: #F4FAFD;
+}
+.optional{
+    width: 100%;
+    height: 100%;
 }
 .list{
     list-style: none;
@@ -17,6 +28,7 @@ body, .bgcolor{
     font-weight: 700;
 
 }
+/* company-section-css */
 .company-ul{
     text-align: center;
     list-style: none;
@@ -29,6 +41,8 @@ body, .bgcolor{
 .company-li img{
     width: 100px;
 }
+
+/* footer-css-add */
 .ulli{
     list-style: none;
 }
